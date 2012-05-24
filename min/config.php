@@ -14,7 +14,7 @@
  */
 $min_allowDebugFlag = false;
 //###WPM-DEBUG-FLAG-BEFORE###
-$min_allowDebugFlag = true;
+$min_allowDebugFlag = false;
 //###WPM-DEBUG-FLAG-AFTER###
 
 
@@ -30,7 +30,7 @@ $min_allowDebugFlag = true;
  */
 $min_errorLogger = false;
 //###WPM-ERROR-LOGGER-BEFORE###
-$min_errorLogger = true;
+$min_errorLogger = false;
 //###WPM-ERROR-LOGGER-AFTER###
 
 
@@ -162,4 +162,4 @@ $min_uploaderHoursBehind = 0;
 $min_libPath = dirname(__FILE__) . '/lib';
 
 
-// try to disable output_compression (may not ha
+// try to disable output_compression (may not 
