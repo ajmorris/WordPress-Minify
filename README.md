@@ -1,4 +1,5 @@
 === WP Minify ===
+
 Tags: minify, js, css, html, javascript, cascading style sheets, optimize, performance, speed, http request, phpspeedy
 Contributors: madeinthayaland, ajmorris
 Donate link: http://omninoggin.com/donate/
@@ -10,6 +11,7 @@ This plugin uses the Minify engine to combine and compress JS and CSS files
 to improve page load time.
 
 == Description ==
+
 This plugin integrates the [Minify engine](http://code.google.com/p/minify/)
 into your WordPress blog.  Once enabled, this plugin will combine and compress
 JS and CSS files to improve page load time.
